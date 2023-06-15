@@ -6,6 +6,6 @@ Ejercicio con Javascript Vanilla para aprender paginación de una tabla usando u
 
 - Bootstrap 5.2
 
-## API
+### API
 
 - fakestoreapi
